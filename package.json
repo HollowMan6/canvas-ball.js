@@ -1,0 +1,24 @@
+{
+  "name": "@hollowman6/canvas-ball",
+  "version": "1.0.0",
+  "description": "A colourful ball background drawn on canvas.(彩球运动背景插件)",
+  "main": "canvas-ball.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/HollowMan6/canvas-ball.js.git"
+  },
+  "keywords": [
+    "Canvas",
+    "Ball"
+  ],
+  "author": "Hollow Man",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/HollowMan6/canvas-ball.js/issues"
+  },
+  "homepage": "https://github.com/HollowMan6/canvas-ball.js#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
