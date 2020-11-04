@@ -77,7 +77,7 @@ class currentCirle extends Circle {
         if (current_circle.x) {
             current_circle.drawCircle(ctx);
         }
-        requestAnimationFrame(draw)
+        requestAnimationFrame(draw);
     }
 
     //创建画布，并添加到body中
