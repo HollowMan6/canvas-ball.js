@@ -19,6 +19,8 @@
 
 ![sample](/sample.png)
 
+**新**: *V1.0.2*: 修复了小球初始移动方向只为右下角，导致短时间内左上角出现空白，右下角过密的情况。
+
 彩球运动背景插件。
 
 此项目改编自我的项目 https://github.com/HollowMan6/canvas-nest.js
@@ -53,6 +55,8 @@
 然后就完成了，打开网页即可看到效果!`请注意不要将代码置于 <head> </head>里面`.
 
 # canvas-ball.js
+
+**NEW**: *V1.0.2*: Fix the BUG relating to balls' initial moving direction only to down-right, leading to temporarily blank in top-left corner and too dense in down-right corner.
 
 A colourful ball background drawn on canvas.
 
