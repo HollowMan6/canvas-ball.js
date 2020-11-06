@@ -27,7 +27,7 @@
 
 此项目改编自我的项目 https://github.com/HollowMan6/canvas-nest.js
 
-[示例网页](sample.html) 预览效果：http://practice.hollowman.ml/canvas-ball.js/sample.html
+[示例网页](sample.html) 预览效果：http://practice.hollowman.ml/🔴%20canvas-ball.js/sample.html
 
 观看在我的主页上的应用效果：https://hollowman6.github.io/ 
 
@@ -66,7 +66,7 @@ A colourful ball background drawn on canvas.
 
 This project is derived from my project https://github.com/HollowMan6/canvas-nest.js
 
-[Sample Page](sample.html) real-time watching: http://practice.hollowman.ml/canvas-ball.js/sample.html
+[Sample Page](sample.html) real-time watching: http://practice.hollowman.ml/🔴%20canvas-ball.js/sample.html
 
 Watch the effect on my Home Page: https://hollowman6.github.io/ 
 
