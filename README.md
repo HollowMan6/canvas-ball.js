@@ -19,6 +19,8 @@
 
 ![sample](sample.png)
 
+**新**: *V1.0.5*: 增加对`IE 11`的支持。
+
 **新**: *V1.0.3*: 除去小球跟随鼠标移动功能，请移步 https://github.com/HollowMan6/Staggered-Mouse-Balls 查看更炫酷的解决方案。
 
 **新**: *V1.0.2*: 修复了小球初始移动方向只为右下角，导致短时间内左上角出现空白，右下角过密的情况。
@@ -57,6 +59,8 @@
 然后就完成了，打开网页即可看到效果!`请注意不要将代码置于 <head> </head>里面`.
 
 # canvas-ball.js
+
+**NEW**: *V1.0.5*: Add support for `IE 11`.
 
 **NEW**: *V1.0.3*: Remove ball follows with the mouse, please go to https://github.com/HollowMan6/Staggered-Mouse-Balls and check a cool solution.
 
