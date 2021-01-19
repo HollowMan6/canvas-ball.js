@@ -1,6 +1,6 @@
 {
   "name": "@hollowman6/canvas-ball",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A colourful ball background drawn on canvas.(彩球运动背景插件)",
   "main": "canvas-ball.js",
   "scripts": {
